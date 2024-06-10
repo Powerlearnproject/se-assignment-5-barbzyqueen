@@ -58,7 +58,7 @@ Before installing Visual Studio Code (VS Code) on Windows 11, ensure that your s
 
 Step-by-Step Instructions on downloading and installing Visual Studio Code on Windows 11 operating system:
 
-1. Download Visual Studio Code
+1. Download Visual Studio Code:
 i. Open your web browser and go to the Visual Studio Code official website.
 
 ![Google VS Code software](search-browser.png)
@@ -68,6 +68,7 @@ ii. You will see options available for Mac Os, Windows Linux etc. You can choose
 iii. If you choose the Windows 64bit version for instance, this will download the VS Code installer (VSCodeSetup-x64-<version>.exe) to your computer.
 
 2. Run the Installer:
+   
 i. Locate the downloaded installer file in your Downloads folder or the location where your browser saves files.
 ![Location of downloaded VS Code](destination-location.png)
 
@@ -128,10 +129,10 @@ First-time Setup:
 After installing Visual Studio Code (VS Code), there are several initial configurations and settings you should adjust to create an optimal coding environment. Here are the key settings and recommended extensions to enhance your development experience.
 
 1. Update VS Code
-First, ensure that you have the latest version of VS Code installed.
+  - First, ensure that you have the latest version of VS Code installed.
 
-Check for Updates:
-Go to Help > Check for Updates....
+  - Check for Updates:
+	Go to Help > Check for Updates....
 
 2. Configure the Settings:
 VS Code provides extensive settings to customize your editor.
@@ -220,6 +221,7 @@ Using the Integrated Terminal:
 
 
 
+
 QUESTION 3: User Interface Overview
 
 
@@ -292,6 +294,7 @@ Components:
 
    Indentation: Indicates the type of indentation (spaces or tabs) and the size.
 
+
 Examples and Usage:
 
    Using the Activity Bar:
@@ -309,6 +312,9 @@ Examples and Usage:
    Reading the Status Bar:
    - Look at the bottom left to see which Git branch you are currently on.
    - Check the bottom right for the current line number and encoding of the file you are editing.
+
+
+
 
 
 QUESTION 4: Command Palette:
@@ -401,6 +407,8 @@ Here are some essential extensions for web development:
 
 
 
+
+
 QUESTION 6: Integrated Terminal
 
 Steps to Open the Integrated Terminal:
@@ -439,6 +447,8 @@ For example, if you're working on a Python project, the terminal will automatica
 
 4. Enhanced Productivity:
 Features like terminal splitting and customization options enhance productivity by allowing you to tailor the terminal to your specific workflow. You can split the terminal vertically or horizontally to view multiple terminals at once, making it easier to multitask.
+
+
 
 
 
@@ -497,6 +507,9 @@ Efficient Navigation Techniques
    - Use it to search and execute various commands without leaving the keyboard. 
 
 
+
+
+
 8. Question 8: Settings and Preferences:
 
 Visual Studio Code (VS Code) provides extensive customization options to enhance your development experience. You can personalize the editor’s appearance, behavior, and keybindings to fit your preferences. You can customize settings in VS Code, including changing the theme, font size, and keybindings as shown below:
@@ -533,6 +546,9 @@ Customizing Keybindings
 2. Editing Keybindings:
 - Search for the command you want to change in the keybindings editor.
 - Click on the pencil icon next to the command to set a new keybinding. 
+
+
+
 
 
 QUESTION 9: Debugging in VS Code:
@@ -578,6 +594,9 @@ Key Debugging Features in VS Code:
 
 4. Step Controls:
    Use the step over, step into, and step out controls to navigate through your code.
+
+
+
 
 
 QUESTION 10: Using Source Control:
